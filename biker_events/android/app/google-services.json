@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "651285136987",
+    "firebase_url": "https://biker-events-dirt2.firebaseio.com",
+    "project_id": "biker-events-dirt2",
+    "storage_bucket": "biker-events-dirt2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651285136987:android:835cce4ec626997b",
+        "android_client_info": {
+          "package_name": "com.example.biker_events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651285136987-3goi8mfmm7pn3frs7ne4ae4431dakv3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biker_events",
+            "certificate_hash": "23f7d2187075e2dc842f9fafaac1dc5824205908"
+          }
+        },
+        {
+          "client_id": "651285136987-k0560rsgc7ubcumr3cdd5fv3avpoddpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEDdGd6XZ1a3j0znbm8ScrWcV9lQIhTfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651285136987-k0560rsgc7ubcumr3cdd5fv3avpoddpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
